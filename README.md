@@ -1,4 +1,4 @@
-# Digital Image Processing - Practices
+# 💻 Digital Image Processing - Practices
 
 # The college subject
 
