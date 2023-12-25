@@ -15,8 +15,8 @@ filters.
 4. DFT and IDFT (Discrete Fourier Transform and Inverse DFT)
 5. Matrix DFT
 6. DFT and IDFT with "for loops"
-7. Gabor Filters
-8. Gabor Filters - Space Domain
+7. Gabor Filters - Frequency domain
+8. Gabor Filters - Space domain
 9. FIR FIlters
 
 # How to run
